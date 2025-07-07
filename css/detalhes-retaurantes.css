@@ -21,6 +21,9 @@
 
     .container {
       padding: 20px;
+      max-width: 1120;
+      margin: 0 auto;
+      border: 1px solid blue;
     }
 
     h1 {
